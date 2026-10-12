@@ -1,7 +1,9 @@
 # Developer Docs Assistant
 
-A small, reproducible Python package that will grow into the course capstone: a
-Developer Docs Assistant. This repository is the **Lesson 1 checkpoint**.
+Lesson 1 foundation for a Python developer documentation assistant capstone.
+
+This is a small, reproducible Python package that will grow into the course
+capstone. This repository is the **Lesson 1 checkpoint**.
 
 ## Lesson 1 checkpoint
 
