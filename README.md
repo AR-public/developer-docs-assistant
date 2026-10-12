@@ -126,8 +126,8 @@ backend, while uv manages the project workflow.
 
 ## Continue with Lesson 2
 
-Start [Lesson 2: Foundation models and APIs](../../lessons/0002-foundation-models-and-apis.html)
-after the checks above pass. Keep this request-validation boundary and add the
-lesson's model interface and deterministic fake implementation as a separate
-increment. That lets later tests exercise the assistant flow without requiring
-credentials or a live provider.
+After the checks above pass, continue with **Lesson 2: Foundation models and
+APIs** in the course workspace. Keep this request-validation boundary and add
+the lesson's model interface and deterministic fake implementation as a
+separate increment. That lets later tests exercise the assistant flow without
+requiring credentials or a live provider.
